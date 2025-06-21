@@ -1,0 +1,17 @@
+# Ignora pastas de build
+bin/
+obj/
+
+# Ignora arquivos de build e cache
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Ignora arquivos de usuário do Visual Studio
+*.user
+*.suo
+
+# Ignora arquivos temporários
+*.log
+*.tmp
